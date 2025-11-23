@@ -1,0 +1,33 @@
+D:\WebAopiShop\WebAopiShop\bin\Debug\net9.0\appsettings (1).json
+D:\WebAopiShop\WebAopiShop\bin\Debug\net9.0\appsettings.Development (1).json
+D:\WebAopiShop\WebAopiShop\bin\Debug\net9.0\WebApiShop.staticwebassets.runtime.json
+D:\WebAopiShop\WebAopiShop\bin\Debug\net9.0\WebApiShop.staticwebassets.endpoints.json
+D:\WebAopiShop\WebAopiShop\bin\Debug\net9.0\WebApiShop.exe
+D:\WebAopiShop\WebAopiShop\bin\Debug\net9.0\WebApiShop.deps.json
+D:\WebAopiShop\WebAopiShop\bin\Debug\net9.0\WebApiShop.runtimeconfig.json
+D:\WebAopiShop\WebAopiShop\bin\Debug\net9.0\WebApiShop.dll
+D:\WebAopiShop\WebAopiShop\bin\Debug\net9.0\WebApiShop.pdb
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\WebApiShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\WebApiShop.AssemblyInfoInputs.cache
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\WebApiShop.AssemblyInfo.cs
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\WebApiShop.csproj.CoreCompileInputs.cache
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\WebApiShop.MvcApplicationPartsAssemblyInfo.cache
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\scopedcss\bundle\WebApiShop.styles.css
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\compressed\8w4e4emq58-r6jd0ymj7l.gz
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\compressed\co1eup8ul9-ah81wezcjg.gz
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\compressed\rbc2egpm6t-vf208xsfv0.gz
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\compressed\lfpq9raow6-khi9irlrkp.gz
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\staticwebassets.build.json
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\staticwebassets.development.json
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\WebApiShop.dll
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\refint\WebApiShop.dll
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\WebApiShop.pdb
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\WebApiShop.genruntimeconfig.cache
+D:\WebAopiShop\WebAopiShop\obj\Debug\net9.0\ref\WebApiShop.dll

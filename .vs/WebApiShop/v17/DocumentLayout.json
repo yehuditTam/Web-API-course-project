@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web-API-course-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebApiShop.csproj|d:\\web-api-course-project\\webaopishop\\webapishop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebApiShop.csproj|solutionrelative:webaopishop\\webapishop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiShop",
+              "DocumentMoniker": "D:\\Web-API-course-project\\WebAopiShop\\WebApiShop.csproj",
+              "RelativeDocumentMoniker": "WebAopiShop\\WebApiShop.csproj",
+              "ToolTip": "D:\\Web-API-course-project\\WebAopiShop\\WebApiShop.csproj",
+              "RelativeToolTip": "WebAopiShop\\WebApiShop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T18:09:19.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
